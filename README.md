@@ -11,4 +11,4 @@ and in last chage the site name in url filed in android
 
 ad2 is gardel file first extract and put with other file
 
-in php folder have all php file
+in php folder have all php file remove (1) from all files
